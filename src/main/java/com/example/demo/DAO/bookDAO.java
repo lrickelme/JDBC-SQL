@@ -1,7 +1,6 @@
 package com.example.demo.DAO;
 
-import com.example.demo.domain.jdbcConnection;
-import com.example.demo.repository.Book;
+import com.example.demo.domain.Book;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 HELP.md
 .idea/
-src/main/java/com/example/demo/domain/.env
+.env
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/

@@ -1,7 +1,7 @@
 package com.example.demo.Main;
 
 import com.example.demo.DAO.bookDAO;
-import com.example.demo.repository.Book;
+import com.example.demo.domain.Book;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import java.sql.SQLException;
 import java.util.List;
